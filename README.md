@@ -1,2 +1,2 @@
 # Groceriesm
-project groceries building with nativescript 
+project groceries building with guide nativescript 
